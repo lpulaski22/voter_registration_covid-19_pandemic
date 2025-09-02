@@ -1,6 +1,7 @@
 # COVID-19 Pandemic Impact on New Voter Registration
 
 Lillian Pulaski
+
 March 2025
 
 ## Introduction
