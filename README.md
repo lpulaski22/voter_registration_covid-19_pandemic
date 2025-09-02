@@ -1,6 +1,7 @@
 # COVID-19 Pandemic Impact on New Voter Registration
 
-**Author:** Lillian Pulaski  
+Lillian Pulaski
+March 2025
 
 ## Introduction
 This project looks at how the COVID-19 pandemic in 2020 affected new voter registration compared to 2016. The goal is to understand how crises impact voter participation and how registration rates can be maintained during difficult times.  
